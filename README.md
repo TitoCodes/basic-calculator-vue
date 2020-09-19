@@ -1,4 +1,4 @@
-# basic-calculator
+# Basic calculator created using Vue.js 3
 
 ## Project setup
 ```
